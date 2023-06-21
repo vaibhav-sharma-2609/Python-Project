@@ -1,1 +1,2 @@
 # Python-Project
+The python project namely "Flood Relief Management System" is made as a part of INT213(Python programming) project , and have achieved O grade in the same subject. The project uses python libraries lke Tkinter, Pandas to build a Graphical User Interface for the executives and professionals involved in managing resources and help in areas affected by Floods and/or natural calamities . 
